@@ -1,0 +1,12 @@
+.details{
+color: grey;
+position: relative;
+top: 85px;
+font-size: larger;
+}
+.name{
+color: black;
+}
+.city{
+display: block;
+}

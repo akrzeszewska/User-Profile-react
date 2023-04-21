@@ -1,0 +1,24 @@
+.parentElemenet{
+    width: 400px;
+    height: 430px;
+}
+.profileUp{
+    height: 35%;
+    background-color: #03b4b7;
+    border-top-left-radius: 35px;
+    border-top-right-radius: 35px;
+}
+.profileDown{
+    height: 65%;
+    background-color: whitesmoke;
+    border-bottom-left-radius: 35px;
+    border-bottom-right-radius: 35px;
+    position: relative;
+}
+
+@media screen and (max-width: 550px) {
+    .parentElemenet{
+        width: 70%;
+        height: 55%;
+    }
+}
